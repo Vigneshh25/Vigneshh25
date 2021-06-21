@@ -1,7 +1,6 @@
 ### Hi there 👋, I'm Vignesh
 #### A passionate developer from India
-![A passionate developer from India](https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif)
-<img align="center" src='https://media.tenor.com/images/b7939d73d32cb3ce5e48a80dd35dc599/tenor.gif' alt='github' height='20'>
+<img align="right" src='https://magiccopy.xyz/assets/images/hadder.gif' alt='github' height='300'>
 
 
 - 🔭 I’m currently working on learning new skills 
