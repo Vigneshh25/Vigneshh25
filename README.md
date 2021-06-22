@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Vignesh
 #### A passionate developer from India
-<img align="right" src='https://magiccopy.xyz/assets/images/hadder.gif' alt='github' height='300'>
+<img align="right" src='https://magiccopy.xyz/assets/images/hadder.gif' alt='github' height='280'>
 
 
 - 🔭 I’m currently working on learning new skills 
